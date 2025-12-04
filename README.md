@@ -1,6 +1,5 @@
 # 👋 Hi, I’m **Ryan Laird**  
 Founder, **Impact Orbit Group** • Director, **Green Orbit Digital**  
-Chair, **UKspace Startup Working Group** • Host, **The Sustainable Space Podcast**
 
 I work where **space**, **sustainability**, and **digital innovation** intersect — building tools, frameworks, and narratives that move the space sector toward a more responsible, transparent, and future-ready direction.
 
