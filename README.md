@@ -1,74 +1,145 @@
-# Hi, I’m Ryan Laird — Director of Green Orbit Digital
+# 👋 Hi, I’m **Ryan Laird**  
+Founder, **Impact Orbit Group** • Director, **Green Orbit Digital**  
+Chair, **UKspace Startup Working Group** • Host, **The Sustainable Space Podcast**
 
-🌍 I lead **Green Orbit Digital**, a specialist agency transforming how the **space industry approaches marketing** — by embedding **sustainability** at the heart of every strategy.
-
-Our mission is clear:  
-**Empower space organisations to craft eco-conscious narratives** that build trust, engage stakeholders, and drive measurable, responsible impact. We prioritise collaboration, creativity, and transparency to align innovation with environmental responsibility — on Earth and beyond.
-
----
-
-## 🚀 What I Bring
-
-- **10+ years in space communications**, including roles at the **European Space Agency**
-- Expertise in:
-  - Sustainable marketing strategy
-  - Professional development & training
-  - Social media branding
-  - External relations & stakeholder engagement
-- Chartered Marketer (**#CMktr**) and **#MCIPR** member  
+I work where **space**, **sustainability**, and **digital innovation** intersect — building tools, frameworks, and narratives that move the space sector toward a more responsible, transparent, and future-ready direction.
 
 ---
 
-## 🌌 A Passion for Space and Sustainability
+## 🚀 About Me
 
-With a background in **Physics with Astrophysics**, I’m dedicated to preserving our night skies. I contribute to the [IAU Centre for the Protection of the Dark and Quiet Sky](https://iau.org/science/scientific_bodies/centres/dark-and-quiet-sky/) — working to mitigate satellite constellation interference and safeguard astronomy for future generations.
+I specialise in **sustainable space communications**, **impact-led strategy**, and **digital transformation**. With more than a decade of experience across industry, including time at the **European Space Agency**, I help organisations embed evidence-based thinking, ethical storytelling, and sustainable operations into their work.
 
----
+My focus areas include:
 
-## 🛠️ Tech Stack & Tools
+- Responsible and sustainability-aligned space communications  
+- Web, SEO, and full-stack digital strategy  
+- Applied AI workflows and productivity systems  
+- Impact frameworks, ESG alignment & policy translation  
+- Stakeholder engagement, leadership, and community building  
 
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![Ecosend by GoSquared](https://img.shields.io/badge/-Ecosend-00B38F?style=flat&logo=leaflet&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Fortran](https://img.shields.io/badge/-Fortran-734F96?style=flat&logo=fortran&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-FABB05?style=flat&logo=googleanalytics&logoColor=white)
-![HubSpot](https://img.shields.io/badge/-HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white)
-![Hugo](https://img.shields.io/badge/-Hugo-FF4088?style=flat&logo=hugo)
-![IDL](https://img.shields.io/badge/-IDL-1E4B7A?style=flat&logo=data&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SEO](https://img.shields.io/badge/-SEO-4B8BBE?style=flat&logo=google&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+Alongside consultancy, I lead discussions on responsible space through **The Sustainable Space Podcast** and support early-career professionals entering the industry.
 
 ---
 
-## 📌 Featured Projects (TBC)
+## 🛰️ What I’m Building
 
-- [**Satellite Interference Toolkit**](#) – Data storytelling tools supporting advocacy on orbital sustainability
-- [**Sustainable Space Podcast Site**](#) – Source and CMS for Substack-powered podcast site
-- [**ESA Social Strategy Case Study**](#) – Archived analysis of multi-platform engagement at ESA
+### **Impact Orbit Group**  
+A new umbrella brand providing a coherent framework for responsible, evidence-based innovation in the space and adjacent tech sectors.  
+Our mission: **put impact at the centre of every orbit — digital, social, policy, and environmental.**
 
-*(Update with real repositories and URLs when ready)*
+### **Green Orbit Digital**  
+A digital-first consultancy focused on:  
+- SEO, analytics & content architecture  
+- Next.js, Astro & headless CMS ecosystems  
+- AI-enabled workflows & automation  
+- Low-carbon web design and sustainable digital practices  
+- Tech-driven marketing for missions, research, & deep-tech ventures  
+
+### **Green Orbit Academy**  
+Capability-building for space professionals:  
+- Training programmes and masterclasses  
+- Communications, sustainability & AI tooling workshops  
+- Leadership pathways for startups and scale-ups  
+
+### **Green Orbit Space Communications & PR**  
+Evidence-driven communications, including:  
+- Strategic messaging & brand architecture  
+- Thought leadership and public engagement  
+- Responsible storytelling and narrative design  
+- PR for missions, launches, sustainability and research  
+- External relations & stakeholder mapping  
+
+---
+
+## 🌱 Sustainability & Impact
+
+I embed sustainability into strategy, operations, and digital practice by focusing on:
+
+- Low-carbon UX and performance-driven design  
+- Environmental impact measurement  
+- Responsible innovation frameworks  
+- ESG-aligned communications  
+- Policy awareness and evidence-based storytelling  
+
+I also contribute to international efforts to protect astronomy, working with the **IAU Centre for the Protection of the Dark and Quiet Sky**, specialising in satellite interference and orbital sustainability.
+
+---
+
+## 🛠️ Tools & Technologies
+
+### **Tech & Development**
+- Astro, Next.js, Hugo  
+- JavaScript, Python, Bash  
+- GitHub Actions / CI  
+- Raycast, Hammerspoon, Alfred  
+- Notion API, HubSpot API, Stripe API  
+
+### **Marketing & Analytics**
+- SEO & technical optimisation  
+- GA4, Looker Studio  
+- HubSpot CRM & automation  
+- Information architecture & content modelling  
+- Sustainable digital standards  
+
+### **AI & Data**
+- Applied AI workflows  
+- Data cleaning & taxonomy design  
+- Impact measurement & SDG frameworks  
+
+---
+
+## 📌 Current GitHub Focus
+
+- Rebuilding **Green Orbit Digital** (Next.js + WP headless)  
+- Developing **Impact Orbit** editorial standards and governance frameworks  
+- Automation tools for **Notion**, **HubSpot**, and **Stripe**  
+- Semantic markdown knowledge-bases and content classification  
+- Astro component libraries and workflow systems  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjmlaird&show_icons=true&theme=default)
+![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjmlaird&show_icons=true&theme=default)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjmlaird&layout=compact)
 
 ---
 
-## 🤝 Let’s Collaborate
+## 🎙️ Speaking & Community
 
-I’m always open to projects and conversations at the intersection of **space, sustainability, and storytelling**. Whether you’re building a brand, launching a mission, or scaling sustainably, I’d love to connect.
+Regular speaker and contributor at:
+- **UKSEDS National Student Space Conference**  
+- **Sustainable Business Alliance**  
+- **Industry workshops & panels**  
+- **Startup mentoring sessions**  
 
-> **Let’s make your space venture innovative, impactful, and eco-friendly.**
+I focus on the future of sustainable space, digital strategy, and ethical technology.
 
 ---
 
-### Connect with me
+## ✨ Fun Facts
 
-[**Website**](https://rjmlaird.me) • [**LinkedIn**](https://www.linkedin.com/in/rjmlaird) • [**Twitter/X**](https://twitter.com/rjmlaird)
+- Space nerd with a strong sustainability bias  
+- ADHD-friendly workflows run my entire digital life  
+- I maintain an extremely organised gear inventory (powered by Notion, obviously)  
+- Dream project: a unified **sustainability dashboard** for the global space ecosystem  
+- Probably thinking about satellites, digital carbon, or how to automate something  
+
+---
+
+## 🤝 Let’s Work Together
+
+If you're exploring sustainable space, building digital ecosystems, or developing evidence-led impact frameworks, I’d love to talk.
+
+> **Let’s build a space sector that is innovative, ethical, and future-proof.**
+
+---
+
+## 🔗 Connect with Me
+
+- 🌐 Website: **rjmlaird.space**  
+- 🚀 Consultancy: **greenorbit.digital**  
+- 🎙️ Podcast: *The Sustainable Space Podcast*  
+- 🐦 Twitter/X: **@rjmlaird**  
+- 💼 LinkedIn: **/in/rjmlaird**  
