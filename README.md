@@ -79,8 +79,8 @@ I build practical systems that help technically capable teams communicate more c
 
 ## Contact
 
-- Website: [impactorbit.co.uk](https://impactorbit.co.uk)
-- Email: hello@impactorbit.co.uk
+- Website: [rjmlaird.co.uk](https://rjmlaird.co.uk)
+- Email: dev@mail.rjmlaird.co.uk
 - LinkedIn: [Ryan J. M. Laird](https://www.linkedin.com/)
 
 ---
