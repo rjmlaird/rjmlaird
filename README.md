@@ -1,144 +1,100 @@
-# 👋 Hi, I’m **Ryan Laird**  
-Founder, **Impact Orbit Group** • Director, **Green Orbit Digital**  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://your-cdn.com/rjmlaird-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://your-cdn.com/rjmlaird-banner-light.svg">
+  <img alt="Ryan J. M. Laird banner" src="https://your-cdn.com/rjmlaird-banner-light.svg">
+</picture>
 
-I work where **space**, **sustainability**, and **digital innovation** intersect — building tools, frameworks, and narratives that move the space sector toward a more responsible, transparent, and future-ready direction.
+# Ryan J. M. Laird
 
----
+Strategic communications, technical systems, and digital growth for space, deep-tech, and sustainability organisations.
 
-## 🚀 About Me
-
-I specialise in **sustainable space communications**, **impact-led strategy**, and **digital transformation**. With more than a decade of experience across industry, including time at the **European Space Agency**, I help organisations embed evidence-based thinking, ethical storytelling, and sustainable operations into their work.
-
-My focus areas include:
-
-- Responsible and sustainability-aligned space communications  
-- Web, SEO, and full-stack digital strategy  
-- Applied AI workflows and productivity systems  
-- Impact frameworks, ESG alignment & policy translation  
-- Stakeholder engagement, leadership, and community building  
-
-Alongside consultancy, I lead discussions on responsible space through **The Sustainable Space Podcast** and support early-career professionals entering the industry.
+I build practical systems that help technically capable teams communicate more clearly, operate more efficiently, and convert expertise into commercial traction.
 
 ---
 
-## 🛰️ What I’m Building
+## What I do
 
-### **Impact Orbit Group**  
-A new umbrella brand providing a coherent framework for responsible, evidence-based innovation in the space and adjacent tech sectors.  
-Our mission: **put impact at the centre of every orbit — digital, social, policy, and environmental.**
-
-### **Green Orbit Digital**  
-A digital-first consultancy focused on:  
-- SEO, analytics & content architecture  
-- Next.js, Astro & headless CMS ecosystems  
-- AI-enabled workflows & automation  
-- Low-carbon web design and sustainable digital practices  
-- Tech-driven marketing for missions, research, & deep-tech ventures  
-
-### **Green Orbit Academy**  
-Capability-building for space professionals:  
-- Training programmes and masterclasses  
-- Communications, sustainability & AI tooling workshops  
-- Leadership pathways for startups and scale-ups  
-
-### **Green Orbit Space Communications & PR**  
-Evidence-driven communications, including:  
-- Strategic messaging & brand architecture  
-- Thought leadership and public engagement  
-- Responsible storytelling and narrative design  
-- PR for missions, launches, sustainability and research  
-- External relations & stakeholder mapping  
+- Founder of Impact Orbit Collective.
+- Strategic consultant for complex, mission-led organisations.
+- Full-stack builder of websites, workflows, and operational tools.
+- Technical communicator with experience across space, deep tech, and sustainability.
 
 ---
 
-## 🌱 Sustainability & Impact
+## Current focus
 
-I embed sustainability into strategy, operations, and digital practice by focusing on:
-
-- Low-carbon UX and performance-driven design  
-- Environmental impact measurement  
-- Responsible innovation frameworks  
-- ESG-aligned communications  
-- Policy awareness and evidence-based storytelling  
-
-I also contribute to international efforts to protect astronomy, working with the **IAU Centre for the Protection of the Dark and Quiet Sky**, specialising in satellite interference and orbital sustainability.
+- Founder-led consulting systems.
+- CRM and automation architecture.
+- Knowledge bases and client portals.
+- Content systems and SEO infrastructure.
+- Lean web builds on modern cloud-native tooling.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tech stack
 
-### **Tech & Development**
-- Astro, Next.js, Hugo  
-- JavaScript, Python, Bash  
-- GitHub Actions / CI  
-- Raycast, Hammerspoon, Alfred  
-- Notion API, HubSpot API, Stripe API  
-
-### **Marketing & Analytics**
-- SEO & technical optimisation  
-- GA4, Looker Studio  
-- HubSpot CRM & automation  
-- Information architecture & content modelling  
-- Sustainable digital standards  
-
-### **AI & Data**
-- Applied AI workflows  
-- Data cleaning & taxonomy design  
-- Impact measurement & SDG frameworks  
+![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FF5D01)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![Brevo](https://img.shields.io/badge/Brevo-0B5FFF?style=for-the-badge&logo=brevo&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Cloudflare D1](https://img.shields.io/badge/Cloudflare_D1-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=typescript&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📌 Current GitHub Focus
+## What I’m building
 
-- Rebuilding **Green Orbit Digital** (Next.js + WP headless)  
-- Developing **Impact Orbit** editorial standards and governance frameworks  
-- Automation tools for **Notion**, **HubSpot**, and **Stripe**  
-- Semantic markdown knowledge-bases and content classification  
-- Astro component libraries and workflow systems  
-
----
-
-## 📊 GitHub Stats
-
-![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjmlaird&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjmlaird&layout=compact)
+- Internal operations systems.
+- Client-facing web platforms.
+- Automation-heavy founder workflows.
+- Technical content and authority infrastructure.
+- Reusable systems that reduce manual overhead.
 
 ---
 
-## 🎙️ Speaking & Community
+## Selected work
 
-Regular speaker and contributor at:
-- **UKSEDS National Student Space Conference**  
-- **Sustainable Business Alliance**  
-- **Industry workshops & panels**  
-- **Startup mentoring sessions**  
-
-I focus on the future of sustainable space, digital strategy, and ethical technology.
+- **Impact Orbit Collective** — strategy, systems, and digital execution for complex organisations.
+- **Operations Hub** — Airtable-based operating system for sales, delivery, and reporting.
+- **Knowledge base architecture** — structured documentation and retrieval systems.
+- **Website and content systems** — fast, focused, conversion-aware builds.
 
 ---
 
-## ✨ Fun Facts
+## Working style
 
-- Space nerd with a strong sustainability bias  
-- ADHD-friendly workflows run my entire digital life  
-- I maintain an extremely organised gear inventory (powered by Notion, obviously)  
-- Dream project: a unified **sustainability dashboard** for the global space ecosystem  
-- Probably thinking about satellites, digital carbon, or how to automate something  
-
----
-
-## 🤝 Let’s Work Together
-
-If you're exploring sustainable space, building digital ecosystems, or developing evidence-led impact frameworks, I’d love to talk.
-
-> **Let’s build a space sector that is innovative, ethical, and future-proof.**
+- Keep systems lean.
+- Prefer clarity over complexity.
+- Build for real-world usage.
+- Document what matters.
+- Ship practical tools, not just ideas.
 
 ---
 
-## 🔗 Connect with Me
+## Contact
 
-- 🌐 Website: **rjmlaird.space**  
-- 🚀 Consultancy: **greenorbit.digital**  
-- 🎙️ Podcast: *The Sustainable Space Podcast*  
-- 🐦 Twitter/X: **@rjmlaird**  
-- 💼 LinkedIn: **/in/rjmlaird**  
+- Website: [impactorbit.co.uk](https://impactorbit.co.uk)
+- Email: hello@impactorbit.co.uk
+- LinkedIn: [Ryan J. M. Laird](https://www.linkedin.com/)
+
+---
+
+## GitHub stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjmlaird&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjmlaird&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## Currently open to
+
+- Consulting projects.
+- Technical systems work.
+- Founder-led digital infrastructure builds.
+- Collaborations in space, deep tech, and sustainability.
