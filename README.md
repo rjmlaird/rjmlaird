@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://your-cdn.com/rjmlaird-banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://your-cdn.com/rjmlaird-banner-light.svg">
-  <img alt="Ryan J. M. Laird banner" src="https://your-cdn.com/rjmlaird-banner-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./file_00000000dbdc82109df7661440de2ad8.png">
+  <source media="(prefers-color-scheme: light)" srcset="./file_00000000dbdc82109df7661440de2ad8.png">
+  <img alt="Ryan J. M. Laird banner" src="./file_00000000dbdc82109df7661440de2ad8.png">
 </picture>
 
 # Ryan J. M. Laird
